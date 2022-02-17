@@ -1,4 +1,4 @@
-[![CN's GitHub stats](https://github-readme-stats.vercel.app/api?username=CN-M)](https://github.com/anuraghazra/github-readme-stats)
+[![CN's GitHub stats](https://github-readme-stats.vercel.app/api?username=CN-M&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m @CN-M
