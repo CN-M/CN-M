@@ -2,7 +2,7 @@
 
 **About Me:** 
 - 👀 I like to code.
-- 🌱 Currently learning NEXT.js, GraphQL & React Native.
+- 🌱 Currently learning Rust, NEXT.js, GraphQL & React Native.
 - 👋 Aiming to usurp Facebook and build the greatest social app in the world.
 - 📫 My biggest ambition is to challenge and beat Jeff Bezos in hand to hand combat.
 - 🥓 I believe that once the US Dollar falls it will be replaced not by Bitcoin, but by **Bacon** as the world's most powerful currency.
