@@ -1,39 +1,85 @@
-# Yo. I'm C.N.
-## I haven't updated this Readme in a year or two so it's outdated.
-## I'm too lazy to update it now, so here's a snapshot of where I was two years ago:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-**About Me:** 
-- 👀 I like to code.
-- 🌱 Currently learning Rust, NEXT.js, GraphQL, and React Native.
-- 👋 Aiming to usurp Facebook and build the greatest social app in the world.
-- 📫 My biggest ambition is to challenge and beat Jeff Bezos in hand-to-hand combat.
-- 🥓 I believe that once the US Dollar falls it will be replaced not by Bitcoin, but by **Bacon** as the world's most powerful currency.
-- 💞️ I have a crush on Shaan Puri and one day expect him to invest in a Startup of mine.
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CN-M.CN-M&"  />
+</div>
 
+###
 
-**Some Stats:**
+<h1 align="center">hey there 👋</h1>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CN-M&theme=tokyonight&custom_title=C.N.'s Github Stats&show_icons=true&count_private=true&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CN-M&layout=compact&hide_border=true"/></a> |
-| ------------- | ------------- |
+###
 
-**Languages:** 
+<h3 align="left">👩‍💻  About Me</h3>
 
-<img><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"></coimgde>
-<img><img height="70" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png"></img>
+###
 
-**Tools:**
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-<img><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></img>
-<img><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"></img>
-<img><img height="70" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></img>
-<img><img height="70" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></img>
-<img><img height="70" src="https://expressjs.com/images/express-facebook-share.png"></img>
-<img><img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4vXlgApMA6WnF3rgrefW_p5BF6T0auS87Q&usqp=CAU.jpg"></img> 
-<img><img height="70" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg"></img>
-<img><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757"></img>
+###
 
-<!---
-CN-M/CN-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/planetscale/000000" height="40" alt="planetscale logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CN-M&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CN-M/count.svg?"  />
+</div>
+
+###
