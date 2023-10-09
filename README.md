@@ -1,12 +1,14 @@
 # Yo. I'm C.N.
+## I haven't updated this Readme in a year or two so it's outdated.
+## I'm too lazy to update it now, so here's a snapshot of where I was two years ago:
 
 **About Me:** 
 - 👀 I like to code.
 - 🌱 Currently learning Rust, NEXT.js, GraphQL, and React Native.
 - 👋 Aiming to usurp Facebook and build the greatest social app in the world.
-- 📫 My biggest ambition is to challenge and beat Jeff Bezos in hand to hand combat.
+- 📫 My biggest ambition is to challenge and beat Jeff Bezos in hand-to-hand combat.
 - 🥓 I believe that once the US Dollar falls it will be replaced not by Bitcoin, but by **Bacon** as the world's most powerful currency.
-- 💞️ I have a crush on Shaan Puri and oneday expect him to invest in a Startup of mine.
+- 💞️ I have a crush on Shaan Puri and one day expect him to invest in a Startup of mine.
 
 
 
