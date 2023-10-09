@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Yo. I'm C.N.👋</h1>
 
 ###
 
@@ -18,7 +18,20 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+👀 I like to code.
+<br>
+🌱 Mainly use Typescript, NextJS, Tailwind, and all the other tools that are the current thing.
+<br>
+👋 Aiming to usurp Facebook and build the greatest social app in the world.
+<br>
+📫 My biggest ambition is to challenge and beat Jeff Bezos in hand-to-hand combat.
+<br>
+🥓 I believe that once the US Dollar falls it will be replaced not by Bitcoin, but by Bacon as the world's most powerful currency.
+<br>
+💞️ I have a crush on Shaan Puri and one day expect him to invest in a Startup of mine.
+<br>
+</p>
 
 ###
 
